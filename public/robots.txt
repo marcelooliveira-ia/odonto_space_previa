@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://odonto-space-previa.vercel.app/sitemap-index.xml
